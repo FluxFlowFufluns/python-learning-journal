@@ -6,6 +6,6 @@ A Python novice, strong interest in AI in application to experimental Neuroscien
 #### https://psychology.cornell.edu/news/brain-inspired-ai-model-learns-sensory-data-efficiently
 
 ## Goals for this Course
-I aim to learn and master the coding fundamental basics in the most efficient and way, embracing new ways of thinking and all and any mental challenges - in a vibrant social micro-setting 
+I aim to learn and master the coding fundamental basics in the most efficient and rewarding way, embracing new ways of thinking and all and any mental challenges - in a vibrant social micro-setting 
 ## My first Python program
 `print("Hello, World!")`
