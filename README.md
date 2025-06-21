@@ -2,7 +2,7 @@
 A repository to document my Python learning journey
 !
 ## About me
-A Python novice, strong interest in AI in application to experimental Neuroscience 
+A Python novice, strong interest in AI applications for experimental Neuroscience 
 #### https://psychology.cornell.edu/news/brain-inspired-ai-model-learns-sensory-data-efficiently
 
 ## Goals for this Course
